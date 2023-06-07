@@ -1,7 +1,7 @@
 # Import pytube, if you don't have, first install the package
 import pytube
 
-# Asking a URL from user.
+# Asking for a URL from the user
 url = input("Enter video URL: ")
 
 # If you want to save downloaded videos in a folder which you want, you need to write a path.
