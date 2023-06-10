@@ -19,7 +19,7 @@ video.download(path)
 # If you want to specify resolution, you can use get_by_resolution. For example if you want 720p;
 # pytube.YouTube(url).streams.get_by_resolution("720").download(path)
 
-# # For elapsed time knowledge, we need to define an end time
+# For elapsed time knowledge, we need to define an end time
 end_time = time.time()
 
 # Calculating the elapsed time
